@@ -35,17 +35,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 ## 📁 Folder Structure
 
-portfolio-website/
-├── index.html
-├── styles/
-│ ├── main.scss
-│ └── \_variables.scss
-├── assets/
-│ ├── images/
-│ └── icons/
-├── js/
-│ └── main.js
-└── README.md
+![Folder Structure Preview](assets/images/image.png)
 
 ---
 
@@ -61,5 +51,3 @@ If you'd like to get in touch:
 ## 📄 License
 
 This project is licensed for personal and educational use. Feel free to fork and customize your own version. ⭐
-# my-porfolio
-# my-porfolio
